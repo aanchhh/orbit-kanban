@@ -9,3 +9,6 @@ tmp
 *.tsbuildinfo
 vite.config.js
 vite.config.d.ts
+
+# Local Netlify folder
+.netlify

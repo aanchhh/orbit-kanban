@@ -2,6 +2,11 @@
 
 Orbit is a polished, full-stack Kanban board for small product teams. It pairs a calm editorial interface with the practical details that make a board useful every day: anonymous private workspaces, drag-and-drop status changes, task detail, comments, activity history, teammates, labels, search, filtering, due-date urgency, and live summary stats.
 
+## Live links
+
+- **Live app:** https://orbit-kanban-aanchhh.netlify.app
+- **GitHub repository:** https://github.com/aanchhh/orbit-kanban
+
 ## Product thinking
 
 The brief asks for something closer to Linear or Asana than a generic todo list. The idea is therefore built around three principles:
@@ -97,9 +102,8 @@ supabase/
 
 ## Submission checklist
 
-- [ ] Create a public repository or share a private repository link
-- [ ] Deploy the frontend and add its URL
+- [x] Create a public repository or share a private repository link
+- [x] Deploy the frontend and add its URL
 - [ ] Verify two separate anonymous browser sessions cannot see each other’s data
 - [ ] Add screenshots and the two links to the final assessment document
 - [ ] Include `supabase/schema.sql` as the full database schema
-
